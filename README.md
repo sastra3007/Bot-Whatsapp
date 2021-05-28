@@ -81,7 +81,7 @@ you've just cloned!!
 |       ✅        |   Clear All Chats                |
 
 ## Special Thanks to
-* [Adiwajshing](https://github.com/adiwajshing/Baileys)
+* [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 
 ## Group
