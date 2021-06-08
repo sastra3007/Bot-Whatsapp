@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://f.top4top.io/p_19737xk6e1.jpg" width="128" height="128"/>
+<img src="https://l.top4top.io/p_19851eqgt1.jpg" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="Bot-Whatsapp" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -15,73 +15,38 @@
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
 
-## Clone this project
+### Install
+Clone this project
 
 ```bash
-> git clone https://github.com/zeeoneofc/Bot-Whatsapp
+> git clone git clone https://github.com/zeeoneofc/Bot-Whatsapp.git
+> cd Bot-Whatsapp
 ```
 
-## Install the dependencies:
-Before running the below command, make sure you're in the project directory that
-you've just cloned!!
+Install the dependencies:
 
 ```bash
-> cd termux-wabot
-> bash install.sh
+> npm i 
 ```
 
 ### Usage
+Run the Bot WhatsApp
+
 ```bash
 > npm start
 ```
 
 ### Settings
-```json
-{
-	"prefix": ".",
-	"ownerNumber": "62858xxxxx",
-	"apiKey": "Your ApiKey here"
-}
-```
+- Change prefix on [this section](https://github.com/zeeoneofc/Bot-Whatsapp/blob/main/src/setting.json#L1)
+- Change ownerNumber on [this section](https://github.com/zeeoneofc/Bot-Whatsapp/blob/main/src/setting.json#L2)
+- Change botname on [this section](https://github.com/zeeoneofc/Bot-Whatsapp/blob/main/src/setting.json#L12)
+- Change limit on [this section](https://github.com/zeeoneofc/Bot-Whatsapp/main/src/index.js#L64)
 
-## Features
 
-| Sticker Creator |                Feature           |
-| :-----------: | :--------------------------------: |
-|       ✅       | Send Photo with Caption          |
-|       ✅       | Reply A Photo                    |
-|       ✅       | Reply A Video or GIF             |
-|       ✅       | Send Video or GIF with Caption   |
-|       ✅       | Reply A Sticker ( sticker to image ) |
-
-| Other  |                     Feature                     |
-| :------------: | :---------------------------------------------: |
-|       ✅        |   Get a random meme             |
-|       ✅        |   Text to speech                |
-|       ✅        |   Writing feature 				|
-|       ✅        |   What Anime Is This 			|
-|       ✅        |   Url2Img ( Screeenshot Web )   |
-|       ✅        |   Simsimi		                |
-
-| Group  |                     Feature               |
-| :-----------: | :--------------------------------: |
-|       ✅        |   Tagall/Mentionall member       |
-|       ✅        |   Tagall2/Mentionall member       |
-|       ✅        |   Tagall3/Mentionall member       |
-|       ✅        |   Kick Member Group	             |
-|       ✅        |   Add Member Group	             |
-|       ✅        |   Get List Admins Group          |
-|       ✅        |   Get Group Invite Link          |
-|       ✅        |   Bot leave the group            |
-
-| Owner Bot  |                     Feature           |
-| :-----------: | :--------------------------------: |
-|       ✅        |   Set Prefix                     |
-|       ✅        |   Broadcast                      |
-|       ✅        |   Clear All Chats                |
 
 ## Special Thanks to
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
+* [```Nayla Chan```](https://github.com/naylachan/)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 
 ## Group
