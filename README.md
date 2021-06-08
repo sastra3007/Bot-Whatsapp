@@ -38,10 +38,9 @@ Run the Bot WhatsApp
 
 ### Settings
 
-- Change prefix on [this section](https://github.com/zeeoneofc/Bot-Whatsapp/blob/main/src/setting.json#L1)
+- Change prefix on [this section](https://github.com/zeeoneofc/Bot-Whatsapp/blob/main/src/settings.json#L2)
 - Change ownerNumber on [this section](https://github.com/zeeoneofc/Bot-Whatsapp/blob/main/src/setting.json#L2)
 - Change botname on [this section](https://github.com/zeeoneofc/Bot-Whatsapp/blob/main/src/setting.json#L12)
-- Change limit on [this section](https://github.com/zeeoneofc/Bot-Whatsapp/blob/main/index.js#L64)
 
 
 
