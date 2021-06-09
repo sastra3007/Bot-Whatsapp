@@ -19,9 +19,6 @@
 Clone this project
 
 ```bash
-> git 
-
-
 > git clone https://github.com/zeeoneofc/Bot-Whatsapp.git
 > cd Bot-Whatsapp
 ```
